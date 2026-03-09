@@ -66,9 +66,8 @@ I enjoy building software from the ground up, starting with an idea and turning 
 
 ## Contact
 
-- Portfolio: https://your-portfolio-link  
-- LinkedIn: https://linkedin.com/in/your-linkedin  
-- Email: your-email@example.com  
+- Portfolio: https://lynxbrijraj.vercel.app/  
+- Email: brijrajbhati123@gmail.com  
 
 ---
 
