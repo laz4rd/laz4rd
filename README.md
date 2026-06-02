@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hero.png">
+  <img src="assets/hero.png">
 </p>
 
 ---
@@ -24,7 +24,7 @@ Computer Engineering student building across software, hardware, and design. Dev
 
 ## Currently Building
 <p align="center">
-  <img src="kaju.png">
+  <img src="assets/kaju.png">
 </p>
 
 
@@ -91,6 +91,6 @@ Computer Engineering student building across software, hardware, and design. Dev
 ---
 
 <p align="center">
-  <img src="footer1.png" height="240">
+  <img src="assets/footer.png" height="240">
 </p>
 
