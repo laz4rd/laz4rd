@@ -61,15 +61,14 @@ Computer Engineering student building across software, hardware, and design. Dev
 
 ## Projects
 
-| Project | Category | Description |
-|----------|----------|------------|
-| **[X4](https://x4creative.framer.website)** | Portfolio | Personal portfolio and project hub |
-| **[FANSI](https://github.com/laz4rd/FANSI-logger)** | Developer Tool | Java ANSI color logger with icons and formatting |
-| **[X4MD](https://github.com/laz4rd/X4MD)** | AI / CLI | Pre-agentic LLM workflow with a Python TUI |
-| **[GPA Calculator](https://github.com/laz4rd/GPACalc)** | Web App | GPA prediction and semester planning tool |
-| **[T::Shll](https://github.com/laz4rd/tshll)** | AI / Terminal | Conversational AI directly in the terminal |
-| **[Sugarplum.nvim](https://github.com/laz4rd/sugarplum.nvim)** | Open Source | Ghostty-inspired Neovim theme |
-| **[Productivity Timer](https://github.com/laz4rd/Study-Productivity-Timer-with-built-in-A.O.D.)** | Productivity | Minimalist focus timer with A.O.D. support |
+| Icon | Project | Category | Description |
+|------|---------|----------|-------------|
+| <img src="assets/FANSI.png" width="24"> | **[FANSI](https://github.com/laz4rd/FANSI-Logger)** | Library | Java ANSI color logger with icons and formatting |
+| <img src="assets/X4MD.png" width="24"> | **[X4MD](https://github.com/laz4rd/X4MD)** | AI / CLI | Pre-agentic LLM workflow with a Python TUI |
+| <img src="assets/GPA.png" width="24"> | **[GPA Calculator](https://github.com/laz4rd/GPACalc)** | Web App | GPA prediction and semester planning tool |
+| <img src="assets/Tshll.png" width="24"> | **[T::Shll](https://github.com/laz4rd/tshll)** | AI / Terminal | Conversational AI directly in your terminal |
+| <img src="assets/sugarplum.png" width="24"> | **[Sugarplum.nvim](https://github.com/laz4rd/sugarplum.nvim)** | Theme | Ghostty-inspired Neovim theme |
+| <img src="assets/KyuNahiHoriPadhai.png" width="24"> | **[Productivity Timer](https://github.com/laz4rd/Study-Productivity-Timer-with-built-in-A.O.D.)** | Utility | Minimalist productivity timer |
 
 ---
 
