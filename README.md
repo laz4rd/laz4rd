@@ -83,7 +83,7 @@ Computer Engineering student building across software, hardware, and design. Dev
 
 ## Contact
 
-- Portfolio: [COMING SOON]
+- Portfolio: https://brijraj.me
 - Website: https://lynxbrijraj.vercel.app/  
 - Email: brijrajbhati123@gmail.com
 
